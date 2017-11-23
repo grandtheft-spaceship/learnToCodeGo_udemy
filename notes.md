@@ -14,5 +14,26 @@
 * [Go Programming Language Specification](https://golang.org/ref/spec)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 
+### Why choose the Programming Language?
 
+* Created by:
+  * Ken Thompson (B, C, Unix, UTF-8)
+  * Rob Pike (Unix, UTF-8)
+  * Robert Griesemer (Hotspot, JVM)
 
+* [What is the purpose of the Go programming language?](https://golang.org/doc/faq#What_is_the_purpose_of_the_project)
+* [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+
+* Go is:
+  * performant
+  * works *well* with multiple cores
+  * able to run *concurreny*
+  * a *compiled language*
+    * This means it translates directly to *binary*; there are no *virtual machines*, no *interpretting*
+    * Designed to run really well in a *network environment*
+  * has garbage collection
+    * Able to manage memory for the user
+  * has clean syntax
+  * has a powerful standard library
+
+* Go is a systems-level, low-level language with a powerful standard library that allows high-level functionality
